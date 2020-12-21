@@ -36,7 +36,7 @@ while(confirmLength <=8 || confirmLength >=128) {
   var confirmLowerCase = confirm ("Do you want lower case letters in your password?");
     //Loop if no parameters are selected
     while(confirmNumeric === false && confirmSpecialCharacter === false && confirmUpperCase === false && confirmLowerCase === false){alert("Your password must contain at least 1 special character, number, Upper Case or lower case value!"); 
-  alert("You must choose at least one parameter");
+
 
   var confirmSpecialCharacter = confirm ("Do you want to include special characters in your password?");
   var confirmNumeric = confirm ("Do you want numbers in your password?");
