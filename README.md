@@ -16,8 +16,13 @@ The final confirmation box asks if lower case alpha characters are desired in th
 
 If cancel is clicked for all 4 password options the user sees an alert that informs them that they must select at least one special character, number, upper or lower case letter. After clicking OK on the alert the 4 password options are re-prompted.
 
+![Try Again] (/Captureoftryagain.png)
+
 
 Once the user has selected at least one option the new password is displayed in the text box.
+
+The URL for this Password Generator is
+ https://kcnancy.github.io/PasswordGenerator/
 
 ## Possible Future Enhancements
 1. Copy new password to clipboard.
